@@ -6,22 +6,27 @@
 
 2.	Membuat frame GUI sesuai kebutuhan
 
+![Screenshot 2024-11-26 130528](https://github.com/user-attachments/assets/208496b2-03db-4573-8a8a-486471536b09)
 
 
 3.	Membuat tampilan crud
 
+![Screenshot 2024-11-26 130516](https://github.com/user-attachments/assets/f8c7d2cb-33ac-4a43-988b-248b514f024e)
 
 
 4.	Mengkoneksikan lewat persistence
 
+![Screenshot 2024-11-26 123853](https://github.com/user-attachments/assets/0aef4abf-5d90-4c6c-89b5-636e94a4dd4e)
 
 
 5.	Isi dari button insert
 
+![Screenshot 2024-11-26 132443](https://github.com/user-attachments/assets/aadeab97-d600-470f-8486-45a375c226d6)
 
 
 6.	Isi dari button update
 
+![Screenshot 2024-11-26 132450](https://github.com/user-attachments/assets/b7d6c766-c4f4-4564-95c8-01ceadd4bdbc)
 
 
 7.	Isi dari button delete
