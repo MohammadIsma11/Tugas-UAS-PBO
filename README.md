@@ -1,27 +1,28 @@
 ## TUGAS FINAL UAS PBO
 1.	Membuat table di pg admin
 
-![Screenshot 2024-11-26 123758](https://github.com/user-attachments/assets/a7c59e11-6b6e-4742-b4d9-6115440208ca)
+![Screenshot 2024-11-26 123758](https://github.com/user-attachments/assets/dd17174e-cf9f-4f5a-8466-59f6ed34d81b)
+
 
 2.	Membuat frame GUI sesuai kebutuhan
 
-![Screenshot 2024-11-26 130528](https://github.com/user-attachments/assets/74061385-b6bb-4caf-a791-e03305a3bf80)
+
 
 3.	Membuat tampilan crud
 
-![Screenshot 2024-11-26 130516](https://github.com/user-attachments/assets/075a7a30-8240-4f9f-900c-6d5db2417846)
+
 
 4.	Mengkoneksikan lewat persistence
 
-![Screenshot 2024-11-26 123853](https://github.com/user-attachments/assets/458e6770-02b6-4e21-86e9-c9d0f371e24a)
+
 
 5.	Isi dari button insert
 
-![Screenshot 2024-11-26 132443](https://github.com/user-attachments/assets/ce4db47b-8e8e-4a3f-b3ac-10011bc0e8a2)
+
 
 6.	Isi dari button update
 
-![Screenshot 2024-11-26 132450](https://github.com/user-attachments/assets/03b82fec-f141-4083-a5f6-2d1bc0fa90bc)
+
 
 7.	Isi dari button delete
 
