@@ -31,40 +31,49 @@
 
 7.	Isi dari button delete
 
-![Screenshot 2024-11-26 132457](https://github.com/user-attachments/assets/524c2ca2-82c7-49f6-85c1-580b255e56f6)
+![Screenshot 2024-11-26 132457](https://github.com/user-attachments/assets/4202f42a-f9e0-4ab1-bcce-c2236ddee7e4)
+
 
 8.	Isi dari button cetak
 
-![Screenshot 2024-11-26 132736](https://github.com/user-attachments/assets/f8a90149-e342-4b30-a355-ca5f48d18578)
+![Screenshot 2024-11-26 132736](https://github.com/user-attachments/assets/f384074e-6dc5-4536-8fc4-8e96f9d5da12)
+
 
 9.	Isi dari button upload
 
-![Screenshot 2024-11-26 132750](https://github.com/user-attachments/assets/0df12a4d-17f6-4b86-a2ad-94049ac58806)
+![Screenshot 2024-11-26 132750](https://github.com/user-attachments/assets/3bfdde53-401f-4d4e-9aa2-0bc0c5d21fec)
+
 
 10.	Membuat tampilan login 
 
-![Screenshot 2024-11-26 132913](https://github.com/user-attachments/assets/c399888f-1c01-4ec0-937d-0504a8597bfd)
+![Screenshot 2024-11-26 132913](https://github.com/user-attachments/assets/da3df812-146c-4533-b82c-cac0f8923338)
+
 
 11.	Isi dari button login
 
-![Screenshot 2024-11-26 133108](https://github.com/user-attachments/assets/f49d6e62-b5d4-448c-a06b-fb56f6fb6b0d)
+![Screenshot 2024-11-26 133108](https://github.com/user-attachments/assets/fa53edfa-f877-4929-8544-de4658c778cf)
+
 
 12.	Membuat tampilan register
 
-![Screenshot 2024-11-26 132922](https://github.com/user-attachments/assets/8b352dab-0e67-4d56-91c8-ad4050ad5bb4)
+![Screenshot 2024-11-26 132922](https://github.com/user-attachments/assets/e9dc1ba7-d1b2-443e-9782-15999addcc09)
+
 
 13.	Isi dari button show 
 
-![Screenshot 2024-11-26 133120](https://github.com/user-attachments/assets/a6506020-b49e-42dc-bd73-0b0f364a2e22)
+![Screenshot 2024-11-26 133120](https://github.com/user-attachments/assets/53c5ce26-e32f-4edf-b4f6-2112c284d453)
+
 
 14.	Isi dari button simpan
 
-![Screenshot 2024-11-26 134404](https://github.com/user-attachments/assets/5e3eccc0-cd85-497d-8ea8-bd8b3f483ad6)
+![Screenshot 2024-11-26 134404](https://github.com/user-attachments/assets/970897f2-5e6c-4a19-9c19-a921c7447954)
+
   
 15.	isi dari show table
 
-![Screenshot 2024-11-26 132805](https://github.com/user-attachments/assets/808b44ab-7a94-499e-9790-b10cacbc937e)
+![Screenshot 2024-11-26 132805](https://github.com/user-attachments/assets/ef0e19c5-0b89-46be-a7fe-7231c631a246)
+
 
 16. isi dari jasper report
     
-![Screenshot 2024-11-26 132016](https://github.com/user-attachments/assets/90381a46-4e24-4ac6-b1af-2b98428b4b3b)
+![Screenshot 2024-11-26 132016](https://github.com/user-attachments/assets/19a61898-bbc3-4663-9c71-530e18c0bfec)
