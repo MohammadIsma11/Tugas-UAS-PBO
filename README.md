@@ -1,10 +1,15 @@
 ## TUGAS FINAL UAS PBO
 1.	Membuat table di pg admin
+Mahasiswa
 
-![Screenshot 2024-11-26 123758](https://github.com/user-attachments/assets/dd17174e-cf9f-4f5a-8466-59f6ed34d81b)
+![Screenshot 2024-11-26 143217](https://github.com/user-attachments/assets/3fc485fa-9ddc-49f7-9f92-de74d7caea13)
+
+Login
+
+![Screenshot 2024-11-26 144308](https://github.com/user-attachments/assets/deab88a1-a91e-4331-800d-922d265918f6)
 
 
-2.	Membuat frame GUI sesuai kebutuhan
+3.	Membuat frame GUI sesuai kebutuhan
 
 ![Screenshot 2024-11-26 130528](https://github.com/user-attachments/assets/208496b2-03db-4573-8a8a-486471536b09)
 
